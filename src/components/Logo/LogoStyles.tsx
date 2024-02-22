@@ -5,6 +5,6 @@ export const styles = StyleSheet.create({
         textAlign: 'center',
         fontWeight: 'bold',
         fontSize: 30,
-        color: '#E5BF3C'
+        color: '#3ca9d0'
     }
 });

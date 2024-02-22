@@ -3,7 +3,7 @@ import { StyleSheet } from 'react-native';
 export const styles = StyleSheet.create({
   inputer:{
     width:'100%',
-    backgroundColor:'#E5BF3C',
+    backgroundColor:'#3ca9d0',
     color:'black',
     fontSize:20,
     height:40,
